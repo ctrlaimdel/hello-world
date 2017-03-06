@@ -1,4 +1,4 @@
 # hello-world
 Just another respository
 
-**Bolded.**  _Italicized._  __Underlined.__
+**Bolded.**  *Italicized.*  __underline__
